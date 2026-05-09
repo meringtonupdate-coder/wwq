@@ -25,7 +25,7 @@
       "id": 4,
       "nick": "HUY228",
       "password": "qjFc8ex4wxzATxN",
-      "balance": 15,
+      "balance": 14.9999,
       "isAdmin": false
     }
   ],
@@ -65,11 +65,18 @@
       "proposalId": 2,
       "amount": 5,
       "choice": "no"
+    },
+    {
+      "id": 3,
+      "userId": 4,
+      "proposalId": 2,
+      "amount": 0.0001,
+      "choice": "no"
     }
   ],
   "nextId": {
     "user": 5,
     "proposal": 3,
-    "bet": 3
+    "bet": 4
   }
 }
