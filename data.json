@@ -4,7 +4,7 @@
       "id": 1,
       "nick": "admin",
       "password": "admin",
-      "balance": 76,
+      "balance": 75,
       "isAdmin": true
     },
     {
@@ -86,11 +86,18 @@
       "proposalId": 2,
       "amount": 1,
       "choice": "yes"
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "proposalId": 2,
+      "amount": 1,
+      "choice": "yes"
     }
   ],
   "nextId": {
     "user": 6,
     "proposal": 3,
-    "bet": 5
+    "bet": 6
   }
 }
