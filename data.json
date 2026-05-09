@@ -4,7 +4,7 @@
       "id": 1,
       "nick": "admin",
       "password": "admin",
-      "balance": 117,
+      "balance": 77,
       "isAdmin": true
     },
     {
@@ -51,10 +51,18 @@
       "bettingClosed": false
     }
   ],
-  "bets": [],
+  "bets": [
+    {
+      "id": 1,
+      "userId": 1,
+      "proposalId": 2,
+      "amount": 40,
+      "choice": "yes"
+    }
+  ],
   "nextId": {
     "user": 5,
     "proposal": 3,
-    "bet": 1
+    "bet": 2
   }
 }
