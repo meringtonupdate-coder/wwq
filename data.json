@@ -60,6 +60,15 @@
       "yesProbability": 1,
       "endTime": "2030-02-02T09:11:00.000Z",
       "result": null
+    },
+    {
+      "id": 6,
+      "name": "капе",
+      "description": "кеп",
+      "maxBetPerUser": 1,
+      "yesProbability": 1,
+      "endTime": "2026-05-09T07:48:00.000Z",
+      "result": null
     }
   ],
   "bets": [
@@ -98,7 +107,7 @@
   ],
   "nextId": {
     "user": 3,
-    "proposal": 6,
+    "proposal": 7,
     "bet": 5
   }
 }
