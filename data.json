@@ -24,6 +24,15 @@
       "yesProbability": 60,
       "endTime": "2026-05-09T07:30:00.000Z",
       "result": "yes"
+    },
+    {
+      "id": 2,
+      "name": "енро",
+      "description": "цукаеп",
+      "maxBetPerUser": 2,
+      "yesProbability": 2,
+      "endTime": "2026-05-09T07:35:00.000Z",
+      "result": null
     }
   ],
   "bets": [
@@ -46,7 +55,7 @@
   ],
   "nextId": {
     "user": 3,
-    "proposal": 2,
+    "proposal": 3,
     "bet": 3
   }
 }
