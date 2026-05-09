@@ -119,6 +119,26 @@
       "endTime": "2300-02-02T20:22:00.000Z",
       "result": null,
       "bettingClosed": false
+    },
+    {
+      "id": 10,
+      "name": "sd",
+      "description": "wdef",
+      "maxBetPerUser": 3,
+      "yesProbability": 3,
+      "endTime": "2300-02-02T20:22:00.000Z",
+      "result": null,
+      "bettingClosed": false
+    },
+    {
+      "id": 11,
+      "name": "543",
+      "description": "435",
+      "maxBetPerUser": 345,
+      "yesProbability": 4,
+      "endTime": "2300-02-22T00:02:00.000Z",
+      "result": null,
+      "bettingClosed": false
     }
   ],
   "bets": [
@@ -171,7 +191,7 @@
   ],
   "nextId": {
     "user": 5,
-    "proposal": 10,
+    "proposal": 12,
     "bet": 7
   }
 }
