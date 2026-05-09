@@ -63,6 +63,16 @@
       "endTime": "2026-05-11T15:00:00.000Z",
       "result": null,
       "bettingClosed": false
+    },
+    {
+      "id": 3,
+      "name": "Will Manchester City win at Chelsea FC — FA Cup Final 2026, 16.09.2026?",
+      "description": "Sport",
+      "maxBetPerUser": 18,
+      "yesProbability": 55,
+      "endTime": "2026-05-15T20:00:00.000Z",
+      "result": null,
+      "bettingClosed": false
     }
   ],
   "bets": [
@@ -118,7 +128,7 @@
   ],
   "nextId": {
     "user": 7,
-    "proposal": 3,
+    "proposal": 4,
     "bet": 8
   }
 }
