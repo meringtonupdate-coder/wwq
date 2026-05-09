@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nick": "admin",
+      "password": "admin",
+      "balance": 20,
+      "isAdmin": true
+    }
+  ],
+  "proposals": [],
+  "bets": [],
+  "nextId": {
+    "user": 2,
+    "proposal": 1,
+    "bet": 1
+  }
+}
