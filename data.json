@@ -34,6 +34,13 @@
       "password": "qjFc8ex4wxzATxN",
       "balance": 20,
       "isAdmin": false
+    },
+    {
+      "id": 6,
+      "nick": "Ladoski",
+      "password": "91666",
+      "balance": 20,
+      "isAdmin": false
     }
   ],
   "proposals": [
@@ -96,7 +103,7 @@
     }
   ],
   "nextId": {
-    "user": 6,
+    "user": 7,
     "proposal": 3,
     "bet": 6
   }
