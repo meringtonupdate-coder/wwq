@@ -27,6 +27,13 @@
       "password": "qjFc8ex4wxzATxN",
       "balance": 14.9999,
       "isAdmin": false
+    },
+    {
+      "id": 5,
+      "nick": "ShwartzNeger339",
+      "password": "qjFc8ex4wxzATxN",
+      "balance": 20,
+      "isAdmin": false
     }
   ],
   "proposals": [
@@ -75,7 +82,7 @@
     }
   ],
   "nextId": {
-    "user": 5,
+    "user": 6,
     "proposal": 3,
     "bet": 4
   }
