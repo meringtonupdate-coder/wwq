@@ -11,7 +11,7 @@
       "id": 2,
       "nick": "q",
       "password": "q",
-      "balance": 10,
+      "balance": 9,
       "isAdmin": false
     }
   ],
@@ -33,11 +33,18 @@
       "proposalId": 1,
       "amount": 10,
       "choice": "yes"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "proposalId": 1,
+      "amount": 1,
+      "choice": "yes"
     }
   ],
   "nextId": {
     "user": 3,
     "proposal": 2,
-    "bet": 2
+    "bet": 3
   }
 }
