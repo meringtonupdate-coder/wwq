@@ -27,8 +27,8 @@
     },
     {
       "id": 2,
-      "name": "ÃÂµÃÂ½ÃÂÃÂ¾",
-      "description": "ÃÂÃÂÃÂºÃÂ°ÃÂµÃÂ¿",
+      "name": "ÃÂÃÂµÃÂÃÂ½ÃÂÃÂÃÂÃÂ¾",
+      "description": "ÃÂÃÂÃÂÃÂÃÂÃÂºÃÂÃÂ°ÃÂÃÂµÃÂÃÂ¿",
       "maxBetPerUser": 2,
       "yesProbability": 2,
       "endTime": "2026-05-09T07:35:00.000Z",
@@ -36,8 +36,8 @@
     },
     {
       "id": 3,
-      "name": "ÑÑÐ²ÑÐ°Ð¿",
-      "description": "ÑÐ²ÑÐ°ÐºÐ¿",
+      "name": "ÃÂÃÂÃÂ²ÃÂÃÂ°ÃÂ¿",
+      "description": "ÃÂÃÂ²ÃÂÃÂ°ÃÂºÃÂ¿",
       "maxBetPerUser": 234,
       "yesProbability": 34,
       "endTime": "2300-02-02T09:11:00.000Z",
@@ -50,6 +50,15 @@
       "maxBetPerUser": 11,
       "yesProbability": 11,
       "endTime": "2027-06-09T08:11:00.000Z",
+      "result": null
+    },
+    {
+      "id": 5,
+      "name": "р",
+      "description": "р",
+      "maxBetPerUser": 1,
+      "yesProbability": 1,
+      "endTime": "2030-02-02T09:11:00.000Z",
       "result": null
     }
   ],
@@ -89,7 +98,7 @@
   ],
   "nextId": {
     "user": 3,
-    "proposal": 5,
+    "proposal": 6,
     "bet": 5
   }
 }
