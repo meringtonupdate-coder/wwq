@@ -27,12 +27,21 @@
     },
     {
       "id": 2,
-      "name": "енро",
-      "description": "цукаеп",
+      "name": "ÐµÐ½ÑÐ¾",
+      "description": "ÑÑÐºÐ°ÐµÐ¿",
       "maxBetPerUser": 2,
       "yesProbability": 2,
       "endTime": "2026-05-09T07:35:00.000Z",
       "result": "yes"
+    },
+    {
+      "id": 3,
+      "name": "іцвуап",
+      "description": "цвуакп",
+      "maxBetPerUser": 234,
+      "yesProbability": 34,
+      "endTime": "2300-02-02T09:11:00.000Z",
+      "result": null
     }
   ],
   "bets": [
@@ -71,7 +80,7 @@
   ],
   "nextId": {
     "user": 3,
-    "proposal": 3,
+    "proposal": 4,
     "bet": 5
   }
 }
