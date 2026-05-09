@@ -27,8 +27,8 @@
     },
     {
       "id": 2,
-      "name": "ÐµÐ½ÑÐ¾",
-      "description": "ÑÑÐºÐ°ÐµÐ¿",
+      "name": "ÃÂµÃÂ½ÃÂÃÂ¾",
+      "description": "ÃÂÃÂÃÂºÃÂ°ÃÂµÃÂ¿",
       "maxBetPerUser": 2,
       "yesProbability": 2,
       "endTime": "2026-05-09T07:35:00.000Z",
@@ -36,11 +36,20 @@
     },
     {
       "id": 3,
-      "name": "іцвуап",
-      "description": "цвуакп",
+      "name": "ÑÑÐ²ÑÐ°Ð¿",
+      "description": "ÑÐ²ÑÐ°ÐºÐ¿",
       "maxBetPerUser": 234,
       "yesProbability": 34,
       "endTime": "2300-02-02T09:11:00.000Z",
+      "result": null
+    },
+    {
+      "id": 4,
+      "name": "Hello",
+      "description": "ewfr",
+      "maxBetPerUser": 11,
+      "yesProbability": 11,
+      "endTime": "2027-06-09T08:11:00.000Z",
       "result": null
     }
   ],
@@ -80,7 +89,7 @@
   ],
   "nextId": {
     "user": 3,
-    "proposal": 4,
+    "proposal": 5,
     "bet": 5
   }
 }
