@@ -8,11 +8,21 @@
       "isAdmin": true
     }
   ],
-  "proposals": [],
+  "proposals": [
+    {
+      "id": 1,
+      "name": "rtf",
+      "description": "rfg",
+      "maxBetPerUser": 11,
+      "yesProbability": 60,
+      "endTime": "2026-05-09T07:30:00.000Z",
+      "result": null
+    }
+  ],
   "bets": [],
   "nextId": {
     "user": 2,
-    "proposal": 1,
+    "proposal": 2,
     "bet": 1
   }
 }
