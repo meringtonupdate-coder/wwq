@@ -29,11 +29,22 @@
       "isAdmin": false
     }
   ],
-  "proposals": [],
+  "proposals": [
+    {
+      "id": 1,
+      "name": "Test",
+      "description": "This is test market",
+      "maxBetPerUser": 0,
+      "yesProbability": 50,
+      "endTime": "2026-05-09T20:59:00.000Z",
+      "result": null,
+      "bettingClosed": false
+    }
+  ],
   "bets": [],
   "nextId": {
     "user": 5,
-    "proposal": 1,
+    "proposal": 2,
     "bet": 1
   }
 }
