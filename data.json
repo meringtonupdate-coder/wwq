@@ -39,7 +39,7 @@
       "id": 6,
       "nick": "Ladoski",
       "password": "91666",
-      "balance": 20,
+      "balance": 0,
       "isAdmin": false
     }
   ],
@@ -100,11 +100,18 @@
       "proposalId": 2,
       "amount": 1,
       "choice": "yes"
+    },
+    {
+      "id": 6,
+      "userId": 6,
+      "proposalId": 2,
+      "amount": 20,
+      "choice": "yes"
     }
   ],
   "nextId": {
     "user": 7,
     "proposal": 3,
-    "bet": 6
+    "bet": 7
   }
 }
