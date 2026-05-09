@@ -52,7 +52,7 @@
       "yesProbability": 50,
       "endTime": "2026-05-09T20:59:00.000Z",
       "result": null,
-      "bettingClosed": false
+      "bettingClosed": true
     },
     {
       "id": 2,
