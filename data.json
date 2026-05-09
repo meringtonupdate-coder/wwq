@@ -4,7 +4,7 @@
       "id": 1,
       "nick": "admin",
       "password": "admin",
-      "balance": 18,
+      "balance": 118,
       "isAdmin": true
     },
     {
@@ -32,7 +32,7 @@
       "maxBetPerUser": 2,
       "yesProbability": 2,
       "endTime": "2026-05-09T07:35:00.000Z",
-      "result": null
+      "result": "yes"
     }
   ],
   "bets": [
@@ -57,14 +57,16 @@
       "userId": 1,
       "proposalId": 2,
       "amount": 1,
-      "choice": "yes"
+      "choice": "yes",
+      "winAmount": 50
     },
     {
       "id": 4,
       "userId": 1,
       "proposalId": 2,
       "amount": 1,
-      "choice": "yes"
+      "choice": "yes",
+      "winAmount": 50
     }
   ],
   "nextId": {
