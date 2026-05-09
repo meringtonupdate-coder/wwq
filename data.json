@@ -39,12 +39,22 @@
       "endTime": "2026-05-09T20:59:00.000Z",
       "result": null,
       "bettingClosed": false
+    },
+    {
+      "id": 2,
+      "name": "Will the dollar to hryvnia cross the mark of 44.44 by September 17, 2026, 00:00?",
+      "description": "Finances",
+      "maxBetPerUser": 55,
+      "yesProbability": 54,
+      "endTime": "2026-05-11T15:00:00.000Z",
+      "result": null,
+      "bettingClosed": false
     }
   ],
   "bets": [],
   "nextId": {
     "user": 5,
-    "proposal": 2,
+    "proposal": 3,
     "bet": 1
   }
 }
