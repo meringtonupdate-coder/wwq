@@ -6,11 +6,12 @@
       "password": "admin",
       "balance": 57,
       "isAdmin": true,
-      "silvercoins": 19,
+      "silvercoins": 9,
       "apl": 0,
       "tkcoin": 1,
       "lastTeckelRestore": null,
-      "lastAplRestore": null
+      "lastAplRestore": null,
+      "teckel": 1
     },
     {
       "id": 2,
@@ -174,7 +175,7 @@
     "user": 7,
     "proposal": 4,
     "bet": 10,
-    "bankTransaction": 6
+    "bankTransaction": 7
   },
   "bankTransactions": [
     {
@@ -226,6 +227,16 @@
       "currency": "silvercoins",
       "comment": "Видача адміністратором",
       "timestamp": "2026-05-10T08:46:55.524Z"
+    },
+    {
+      "id": 6,
+      "type": "restore_silver",
+      "fromUserId": 0,
+      "toUserId": 1,
+      "amount": 1,
+      "currency": "teckel",
+      "comment": "Купівля: 10 Silvercoins → 1 Teckel",
+      "timestamp": "2026-05-10T08:47:02.649Z"
     }
   ]
 }
