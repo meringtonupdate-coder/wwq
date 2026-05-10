@@ -28,7 +28,7 @@
       "password": "d",
       "balance": 9.9999,
       "isAdmin": false,
-      "silvercoins": 1,
+      "silvercoins": 0,
       "apl": 0,
       "tkcoin": 0,
       "lastTeckelRestore": null
@@ -168,7 +168,7 @@
     "user": 7,
     "proposal": 4,
     "bet": 10,
-    "bankTransaction": 2
+    "bankTransaction": 3
   },
   "bankTransactions": [
     {
@@ -180,6 +180,16 @@
       "currency": "silvercoins",
       "comment": "Test",
       "timestamp": "2026-05-10T08:20:49.878Z"
+    },
+    {
+      "id": 2,
+      "type": "withdraw",
+      "fromUserId": 3,
+      "toUserId": 0,
+      "amount": 1,
+      "currency": "silvercoins",
+      "comment": "Test",
+      "timestamp": "2026-05-10T08:25:12.684Z"
     }
   ]
 }
