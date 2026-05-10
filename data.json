@@ -5,42 +5,66 @@
       "nick": "admin",
       "password": "admin",
       "balance": 57,
-      "isAdmin": true
+      "isAdmin": true,
+      "silvercoins": 0,
+      "apl": 0,
+      "tkcoin": 0,
+      "lastTeckelRestore": null
     },
     {
       "id": 2,
       "nick": "q",
       "password": "q",
       "balance": 27.333333333333336,
-      "isAdmin": false
+      "isAdmin": false,
+      "silvercoins": 0,
+      "apl": 0,
+      "tkcoin": 0,
+      "lastTeckelRestore": null
     },
     {
       "id": 3,
       "nick": "D",
       "password": "d",
       "balance": 9.9999,
-      "isAdmin": false
+      "isAdmin": false,
+      "silvercoins": 1,
+      "apl": 0,
+      "tkcoin": 0,
+      "lastTeckelRestore": null
     },
     {
       "id": 4,
       "nick": "HUY228",
       "password": "qjFc8ex4wxzATxN",
       "balance": 0,
-      "isAdmin": false
+      "isAdmin": false,
+      "silvercoins": 0,
+      "apl": 0,
+      "tkcoin": 0,
+      "lastTeckelRestore": null
     },
     {
       "id": 5,
       "nick": "ShwartzNeger339",
       "password": "qjFc8ex4wxzATxN",
       "balance": 20,
-      "isAdmin": false
+      "isAdmin": false,
+      "silvercoins": 0,
+      "apl": 0,
+      "tkcoin": 0,
+      "lastTeckelRestore": null
     },
     {
       "id": 6,
       "nick": "Ladoski",
       "password": "91666",
       "balance": 0,
-      "isAdmin": false
+      "isAdmin": false,
+      "silvercoins": 0,
+      "apl": 0,
+      "tkcoin": 0,
+      "lastTeckelRestore": null
     }
   ],
   "proposals": [
@@ -143,6 +167,19 @@
   "nextId": {
     "user": 7,
     "proposal": 4,
-    "bet": 10
-  }
+    "bet": 10,
+    "bankTransaction": 2
+  },
+  "bankTransactions": [
+    {
+      "id": 1,
+      "type": "issue",
+      "fromUserId": 0,
+      "toUserId": 3,
+      "amount": 1,
+      "currency": "silvercoins",
+      "comment": "Test",
+      "timestamp": "2026-05-10T08:20:49.878Z"
+    }
+  ]
 }
