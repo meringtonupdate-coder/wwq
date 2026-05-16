@@ -103,7 +103,7 @@
       "yesProbability": 55,
       "endTime": "2026-05-15T20:00:00.000Z",
       "result": null,
-      "bettingClosed": false
+      "bettingClosed": true
     }
   ],
   "bets": [
@@ -205,7 +205,7 @@
       "toUserId": 1,
       "amount": 10,
       "currency": "silvercoins",
-      "comment": "ÐÐ¸Ð´Ð°ÑÐ° Ð°Ð´Ð¼ÑÐ½ÑÑÑÑÐ°ÑÐ¾ÑÐ¾Ð¼",
+      "comment": "ÃÂÃÂ¸ÃÂ´ÃÂ°ÃÂÃÂ° ÃÂ°ÃÂ´ÃÂ¼ÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂ¾ÃÂÃÂ¾ÃÂ¼",
       "timestamp": "2026-05-10T08:46:26.073Z"
     },
     {
@@ -215,7 +215,7 @@
       "toUserId": 1,
       "amount": 1,
       "currency": "tkcoin",
-      "comment": "ÐÐ±Ð¼ÑÐ½ 1 Silvercoin â 1 TKcoin",
+      "comment": "ÃÂÃÂ±ÃÂ¼ÃÂÃÂ½ 1 Silvercoin Ã¢ÂÂ 1 TKcoin",
       "timestamp": "2026-05-10T08:46:48.463Z"
     },
     {
@@ -225,7 +225,7 @@
       "toUserId": 1,
       "amount": 10,
       "currency": "silvercoins",
-      "comment": "ÐÐ¸Ð´Ð°ÑÐ° Ð°Ð´Ð¼ÑÐ½ÑÑÑÑÐ°ÑÐ¾ÑÐ¾Ð¼",
+      "comment": "ÃÂÃÂ¸ÃÂ´ÃÂ°ÃÂÃÂ° ÃÂ°ÃÂ´ÃÂ¼ÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂ¾ÃÂÃÂ¾ÃÂ¼",
       "timestamp": "2026-05-10T08:46:55.524Z"
     },
     {
@@ -235,7 +235,7 @@
       "toUserId": 1,
       "amount": 1,
       "currency": "teckel",
-      "comment": "ÐÑÐ¿ÑÐ²Ð»Ñ: 10 Silvercoins â 1 Teckel",
+      "comment": "ÃÂÃÂÃÂ¿ÃÂÃÂ²ÃÂ»ÃÂ: 10 Silvercoins Ã¢ÂÂ 1 Teckel",
       "timestamp": "2026-05-10T08:47:02.649Z"
     },
     {
@@ -245,7 +245,7 @@
       "toUserId": 1,
       "amount": 1,
       "currency": "tkcoin",
-      "comment": "ÐÐ±Ð¼ÑÐ½ 1 Silvercoin â 1 TKcoin",
+      "comment": "ÃÂÃÂ±ÃÂ¼ÃÂÃÂ½ 1 Silvercoin Ã¢ÂÂ 1 TKcoin",
       "timestamp": "2026-05-10T08:47:06.559Z"
     },
     {
