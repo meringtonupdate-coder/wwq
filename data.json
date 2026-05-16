@@ -114,6 +114,16 @@
       "endTime": "2026-05-16T21:00:00.000Z",
       "result": null,
       "bettingClosed": false
+    },
+    {
+      "id": 5,
+      "name": "Will Australia win Eurovision?",
+      "description": "Eurovision",
+      "maxBetPerUser": 4,
+      "yesProbability": 22,
+      "endTime": "2026-05-16T21:00:00.000Z",
+      "result": null,
+      "bettingClosed": false
     }
   ],
   "bets": [
@@ -183,7 +193,7 @@
   ],
   "nextId": {
     "user": 7,
-    "proposal": 5,
+    "proposal": 6,
     "bet": 10,
     "bankTransaction": 9
   },
