@@ -112,7 +112,7 @@
       "maxBetPerUser": 7,
       "yesProbability": 40,
       "endTime": "2026-05-16T21:00:00.000Z",
-      "result": null,
+      "result": "no",
       "bettingClosed": true
     },
     {
