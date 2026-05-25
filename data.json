@@ -41,7 +41,7 @@
       "id": 4,
       "nick": "HUY228",
       "password": "qjFc8ex4wxzATxN",
-      "balance": 27.27254545454545,
+      "balance": 38.1423280632411,
       "isAdmin": false,
       "silvercoins": 0,
       "apl": 0,
@@ -92,7 +92,7 @@
       "maxBetPerUser": 55,
       "yesProbability": 54,
       "endTime": "2026-05-11T15:00:00.000Z",
-      "result": null,
+      "result": "no",
       "bettingClosed": true
     },
     {
@@ -132,49 +132,56 @@
       "userId": 1,
       "proposalId": 2,
       "amount": 40,
-      "choice": "yes"
+      "choice": "yes",
+      "winAmount": 0
     },
     {
       "id": 2,
       "userId": 4,
       "proposalId": 2,
       "amount": 5,
-      "choice": "no"
+      "choice": "no",
+      "winAmount": 10.869565217391305
     },
     {
       "id": 3,
       "userId": 4,
       "proposalId": 2,
       "amount": 0.0001,
-      "choice": "no"
+      "choice": "no",
+      "winAmount": 0.00021739130434782612
     },
     {
       "id": 4,
       "userId": 1,
       "proposalId": 2,
       "amount": 1,
-      "choice": "yes"
+      "choice": "yes",
+      "winAmount": 0
     },
     {
       "id": 5,
       "userId": 1,
       "proposalId": 2,
       "amount": 1,
-      "choice": "yes"
+      "choice": "yes",
+      "winAmount": 0
     },
     {
       "id": 6,
       "userId": 6,
       "proposalId": 2,
       "amount": 20,
-      "choice": "yes"
+      "choice": "yes",
+      "winAmount": 0
     },
     {
       "id": 7,
       "userId": 3,
       "proposalId": 2,
       "amount": 10,
-      "choice": "yes"
+      "choice": "yes",
+      "winAmount": 0
     },
     {
       "id": 8,
