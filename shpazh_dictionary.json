@@ -1,0 +1,62 @@
+{
+  "говор": {
+    "rootShpazh": "Shpazh",
+    "type": "verb"
+  },
+  "сказа": {
+    "rootShpazh": "Rek",
+    "type": "verb"
+  },
+  "біг": {
+    "rootShpazh": "Runo",
+    "type": "verb"
+  },
+  "чит": {
+    "rootShpazh": "Lekt",
+    "type": "verb"
+  },
+  "пит": {
+    "rootShpazh": "Drik",
+    "type": "verb"
+  },
+  "холод": {
+    "rootShpazh": "Stud",
+    "type": "adjective"
+  },
+  "тепл": {
+    "rootShpazh": "Varm",
+    "type": "adjective"
+  },
+  "велик": {
+    "rootShpazh": "Magn",
+    "type": "adjective"
+  },
+  "мал": {
+    "rootShpazh": "Mikr",
+    "type": "adjective"
+  },
+  "нов": {
+    "rootShpazh": "Nov",
+    "type": "adjective"
+  },
+  "людин": {
+    "rootShpazh": "Grazhd",
+    "type": "noun",
+    "baseGender": "feminine"
+  },
+  "студент": {
+    "rootShpazh": "Stude",
+    "type": "noun",
+    "baseGender": "masculine"
+  },
+  "кіт": {
+    "rootShpazh": "Katz",
+    "type": "noun",
+    "baseGender": "masculine"
+  },
+  "книг": {
+    "rootShpazh": "Libr",
+    "type": "noun",
+    "baseGender": "feminine"
+  }
+}
