@@ -1,1 +1,18 @@
-
+{
+  "users": [
+    {
+      "id": 1,
+      "nick": "GYJGUI",
+      "password": "HOUH",
+      "balance": 20,
+      "isAdmin": false
+    }
+  ],
+  "proposals": [],
+  "bets": [],
+  "nextId": {
+    "user": 2,
+    "proposal": 1,
+    "bet": 1
+  }
+}
