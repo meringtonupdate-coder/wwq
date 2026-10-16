@@ -6,12 +6,19 @@
       "password": "HOUH",
       "balance": 20,
       "isAdmin": false
+    },
+    {
+      "id": 2,
+      "nick": "admin",
+      "password": "admin",
+      "balance": 20,
+      "isAdmin": true
     }
   ],
   "proposals": [],
   "bets": [],
   "nextId": {
-    "user": 2,
+    "user": 3,
     "proposal": 1,
     "bet": 1
   }
